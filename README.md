@@ -4,7 +4,7 @@ Backbone-inspired data layer, aiming at majority API compatibility with modern p
 underscore/jquery dependency.
 
 To suggest a feature or report a bug:
-https://github.com/mixmaxh/neckbone/issues
+https://github.com/mixmaxhq/neckbone/issues
 
 Many thanks to Backbone's contributors:
 https://github.com/jashkenas/backbone/graphs/contributors
